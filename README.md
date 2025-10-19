@@ -63,6 +63,11 @@ Note: Lombok annotations (@Getter, @Setter, @AllArgsConstructor, @NoArgsConstruc
 On my laptop, Lombok was not working correctly despite multiple attempts, so I manually included all necessary constructors, getters, setters, and builder methods in the code.
 
 
+Open Swagger UI:
+                open your browser and go to: http://localhost:8080/swagger-ui.html
+                if server runs on port 8080.
+
+
 
 
 
